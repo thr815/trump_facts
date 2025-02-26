@@ -1,0 +1,16 @@
+[
+    {
+        "date": "1990-01-01",
+        "fact": "[Famous Person] was born in [Location].",
+        "sources": ["https://example.com/source1"],
+        "media": ["https://example.com/image1.jpg"],
+        "confidence": "High"
+    },
+    {
+        "date": "2005-05-15",
+        "fact": "[Famous Person] achieved [Achievement].",
+        "sources": ["https://example.com/source2"],
+        "media": ["https://example.com/image2.jpg"],
+        "confidence": "Medium"
+    }
+]
